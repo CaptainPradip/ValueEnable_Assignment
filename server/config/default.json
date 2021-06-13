@@ -1,0 +1,12 @@
+{
+  "localMongodb": {
+    "url": "mongodb://",
+    "username": "",
+    "password": "",
+    "serverUrl": "localhost",
+    "port": "27017",
+    "databaseName": "Value_Enable"
+  },
+  "secret": "secret_key",
+  "port": 4000
+}
